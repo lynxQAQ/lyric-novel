@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "64cd403ec2ead49f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e6d2aec9442d1b",
+        "type": "tabs",
+        "dimension": 75.81967213114754,
+        "children": [
+          {
+            "id": "d92b2f973c51dfe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正文/第一章：起源.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章：起源"
+            }
+          },
+          {
+            "id": "c869c554726ebd79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设定集/实体/疯狂映像.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "疯狂映像"
+            }
+          },
+          {
+            "id": "86c9fd8a9459403c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设定集/实体/阿维索斯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "阿维索斯"
+            }
+          },
+          {
+            "id": "0f81c31616dec483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏要素-Settlement/Branch/10-结局.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-结局"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a36ecf2bf3d780f4",
+        "type": "tabs",
+        "dimension": 24.18032786885246,
+        "children": [
+          {
+            "id": "3a9dbdb391264ff0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ac2ae97bbc1a30d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18374dbf42ae1cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a0652d35439a66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "179d48621cfaa18d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "694b960a8c4f1bd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "33dcf7c314385064",
+    "type": "split",
+    "children": [
+      {
+        "id": "a51f980c172539e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55a848e90cb5426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "正文/第一章.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 第一章"
+            }
+          },
+          {
+            "id": "2c8413fc74e79d7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "正文/幕二.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 幕二"
+            }
+          },
+          {
+            "id": "9ae3c10dc1d3863e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6377f66ca6a0e967",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "设定集/实体/阿卡莱斯文明.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 阿卡莱斯文明"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "86c9fd8a9459403c",
+  "lastOpenFiles": [
+    "设定集/实体/阿卡莱斯文明.md",
+    "游戏要素-Settlement/Branch/10-结局.md",
+    "正文/第一章：起源.md",
+    "设定集/实体/阿维索斯.md",
+    "设定集/实体/疯狂映像.md",
+    "设定集/基础世界观/基础世界观.md",
+    "设定集/要素解释/XXX.md",
+    "游戏要素-Settlement/Depiction",
+    "游戏要素-Settlement/Property",
+    "游戏要素-Settlement/Clue",
+    "游戏要素-Settlement/Quest",
+    "游戏要素-Settlement/Moment",
+    "游戏要素-Settlement/Branch",
+    "游戏要素-Settlement/Storyline",
+    "草稿/Chapter 2.md",
+    "故事线选择/第1天.md",
+    "人物集/先驱者号小队/达约·科尔 (Dayo Kole).md",
+    "设定集/科学观/地日标准时间.md",
+    "设定集/科学观/鱼饵假说.md",
+    "设定集/科学观/地核灾变.md",
+    "设定集/科学观/避危派与从危派.md",
+    "设定集/科学观/阿维索斯研究联合会.md",
+    "设定集/科学观/阿维索斯接口理论.md",
+    "草稿/Chapter 3.md",
+    "草稿/Chapter 1.md",
+    "草稿/草稿.md",
+    "设定集/先驱者号/先驱者号总览.md",
+    "草稿/大纲.md",
+    "故事线选择/第2天.md",
+    "故事线选择/第3天.md",
+    "故事线选择/第4天.md",
+    "人物集/登场人物总览.md",
+    "人物集/先驱者号小队/奥菲莉亚·科耐普 (Ophelia Knapp).md",
+    "正文/UntitledUntitled.canvas",
+    "草稿",
+    "游戏要素-Settlement",
+    "人物集/先驱者号小队"
+  ]
+}
