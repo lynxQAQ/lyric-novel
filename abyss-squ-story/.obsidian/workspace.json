@@ -6,74 +6,59 @@
       {
         "id": "b0e6d2aec9442d1b",
         "type": "tabs",
-        "dimension": 75.81967213114754,
+        "dimension": 76.17302052785924,
         "children": [
           {
-            "id": "d92b2f973c51dfe6",
+            "id": "2d64f79cd2e3ff2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正文/第一章：起源.md",
+                "file": "游戏进度-Progress/叙事大纲-Narration/1-第一天.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一章：起源"
+              "title": "1-第一天"
             }
           },
           {
-            "id": "c869c554726ebd79",
+            "id": "1270b4e2aeb35407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设定集/实体/疯狂映像.md",
+                "file": "元设计/游戏系统/Processing Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "疯狂映像"
+              "title": "Processing Cycle"
             }
           },
           {
-            "id": "86c9fd8a9459403c",
+            "id": "50ba84f589f9738f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设定集/实体/阿维索斯.md",
+                "file": "元设计/游戏系统/主数据Value编码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阿维索斯"
-            }
-          },
-          {
-            "id": "0f81c31616dec483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "游戏要素-Settlement/Branch/10-结局.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10-结局"
+              "title": "主数据Value编码"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "a36ecf2bf3d780f4",
+        "id": "7482124d1112cccc",
         "type": "tabs",
-        "dimension": 24.18032786885246,
+        "dimension": 23.826979472140764,
         "children": [
           {
-            "id": "3a9dbdb391264ff0",
+            "id": "5961c696a4638641",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 298.5
   },
   "right": {
     "id": "33dcf7c314385064",
@@ -201,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设定集/实体/阿卡莱斯文明.md",
+                "file": "灵感集/思想概念/哲学思考/西蒙斯问题（Simons’ Problem）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 阿卡莱斯文明"
+              "title": "Outline of 西蒙斯问题（Simons’ Problem）"
             }
           }
         ],
@@ -228,44 +213,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86c9fd8a9459403c",
+  "active": "2d64f79cd2e3ff2b",
   "lastOpenFiles": [
-    "设定集/实体/阿卡莱斯文明.md",
-    "游戏要素-Settlement/Branch/10-结局.md",
-    "正文/第一章：起源.md",
-    "设定集/实体/阿维索斯.md",
-    "设定集/实体/疯狂映像.md",
-    "设定集/基础世界观/基础世界观.md",
-    "设定集/要素解释/XXX.md",
-    "游戏要素-Settlement/Depiction",
-    "游戏要素-Settlement/Property",
-    "游戏要素-Settlement/Clue",
-    "游戏要素-Settlement/Quest",
-    "游戏要素-Settlement/Moment",
-    "游戏要素-Settlement/Branch",
-    "游戏要素-Settlement/Storyline",
-    "草稿/Chapter 2.md",
-    "故事线选择/第1天.md",
-    "人物集/先驱者号小队/达约·科尔 (Dayo Kole).md",
-    "设定集/科学观/地日标准时间.md",
-    "设定集/科学观/鱼饵假说.md",
-    "设定集/科学观/地核灾变.md",
-    "设定集/科学观/避危派与从危派.md",
-    "设定集/科学观/阿维索斯研究联合会.md",
-    "设定集/科学观/阿维索斯接口理论.md",
-    "草稿/Chapter 3.md",
-    "草稿/Chapter 1.md",
-    "草稿/草稿.md",
-    "设定集/先驱者号/先驱者号总览.md",
-    "草稿/大纲.md",
-    "故事线选择/第2天.md",
-    "故事线选择/第3天.md",
-    "故事线选择/第4天.md",
-    "人物集/登场人物总览.md",
-    "人物集/先驱者号小队/奥菲莉亚·科耐普 (Ophelia Knapp).md",
-    "正文/UntitledUntitled.canvas",
-    "草稿",
-    "游戏要素-Settlement",
-    "人物集/先驱者号小队"
+    "游戏进度-Progress/叙事大纲-Narration/1-第一天.md",
+    "草稿/系统设计.md",
+    "元设计/游戏系统/Processing Cycle.md",
+    "元设计/游戏系统/主数据Value编码.md",
+    "灵感集/思想概念/哲学思考/西蒙斯问题（Simons’ Problem）.md",
+    "灵感集/思想概念/哲学思考/舒尔茨的分叉（Schulz’s Fork）.md",
+    "灵感集/思想概念/哲学思考/纽科姆悖论（Newcomb’s Paradox）.md",
+    "灵感集/思想概念/哲学思考/蝴蝶效应（Butterfly Effect）.md",
+    "灵感集/思想概念/哲学思考/道德幸运（Moral Luck）.md",
+    "灵感集/思想概念/哲学思考/玻尔兹曼大脑（Boltzmann Brain）.md",
+    "游戏主数据-Master/倾向-Trending/Environs/舰厅/1-舰厅环境A.md",
+    "游戏主数据-Master/结算-Settlement/Moment/1-——Avisos.md",
+    "游戏主数据-Master/倾向-Trending/Portrayal/艾莉卡-桑德斯/D1R2S0.md",
+    "游戏主数据-Master/结算-Settlement/Storyline/4-与 Ophelia Knapp 完成首次交谈.md",
+    "游戏主数据-Master/结算-Settlement/Storyline/1-于舰厅苏醒.md",
+    "游戏进度-Progress/剧情分支-Plot/1-落地舷窗的处置.md",
+    "游戏主数据-Master/结算-Settlement/Storyline/2-完成舰厅内首次交谈.md",
+    "游戏主数据-Master/结算-Settlement/Branch/1-手动开启落地舷窗.md",
+    "游戏主数据-Master/结算-Settlement/Clue/3-关闭的舰厅落地舷窗.md",
+    "元设计/要素解释/3-Master/Trigger.md",
+    "元设计/要素解释/3-Master/Meta-Factor.md",
+    "游戏主数据-Master/结算-Settlement/Storyline/11-与 Leon Haxa 完成首次交谈.md",
+    "Logic.md",
+    "Storyline.md",
+    "Untitled.md",
+    "元设计/游戏系统",
+    "游戏主数据-Master/结算-Settlement/Storyline/7-与 Diego Moran 完成首次交谈.md",
+    "元设计/要素解释/0-Layers",
+    "元设计/要素解释/4-Configuration/Untitled",
+    "元设计/要素解释/4-Configuration/Elements",
+    "元设计/要素解释/3-Master/Elements/Untitled",
+    "元设计/要素解释/3-Master/Elements",
+    "元设计/要素解释/5-Progress",
+    "元设计/要素解释/4-Configuration",
+    "元设计/要素解释/3-Master",
+    "元设计/要素解释/2-Interaction",
+    "正文/UntitledUntitled.canvas"
   ]
 }
