@@ -1,0 +1,1 @@
+赤曜城（Crimson Eden）

@@ -6,48 +6,34 @@
       {
         "id": "b0e6d2aec9442d1b",
         "type": "tabs",
-        "dimension": 76.17302052785924,
+        "dimension": 67.76556776556777,
         "children": [
           {
-            "id": "2d64f79cd2e3ff2b",
+            "id": "00422f84a2b8694a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏进度-Progress/叙事大纲-Narration/1-第一天.md",
+                "file": "灵感集/思想概念/哲学主义/主义/快乐主义-Hedonism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-第一天"
+              "title": "快乐主义-Hedonism"
             }
           },
           {
-            "id": "1270b4e2aeb35407",
+            "id": "d3454a194ffc1fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "元设计/游戏系统/Processing Cycle.md",
+                "file": "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2059 Babel Incident.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Processing Cycle"
-            }
-          },
-          {
-            "id": "50ba84f589f9738f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "元设计/游戏系统/主数据Value编码.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "主数据Value编码"
+              "title": "2059 Babel Incident"
             }
           }
         ]
@@ -55,7 +41,7 @@
       {
         "id": "7482124d1112cccc",
         "type": "tabs",
-        "dimension": 23.826979472140764,
+        "dimension": 32.234432234432234,
         "children": [
           {
             "id": "5961c696a4638641",
@@ -213,44 +199,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d64f79cd2e3ff2b",
+  "active": "00422f84a2b8694a",
   "lastOpenFiles": [
-    "游戏进度-Progress/叙事大纲-Narration/1-第一天.md",
-    "草稿/系统设计.md",
-    "元设计/游戏系统/Processing Cycle.md",
-    "元设计/游戏系统/主数据Value编码.md",
-    "灵感集/思想概念/哲学思考/西蒙斯问题（Simons’ Problem）.md",
-    "灵感集/思想概念/哲学思考/舒尔茨的分叉（Schulz’s Fork）.md",
-    "灵感集/思想概念/哲学思考/纽科姆悖论（Newcomb’s Paradox）.md",
-    "灵感集/思想概念/哲学思考/蝴蝶效应（Butterfly Effect）.md",
-    "灵感集/思想概念/哲学思考/道德幸运（Moral Luck）.md",
-    "灵感集/思想概念/哲学思考/玻尔兹曼大脑（Boltzmann Brain）.md",
-    "游戏主数据-Master/倾向-Trending/Environs/舰厅/1-舰厅环境A.md",
-    "游戏主数据-Master/结算-Settlement/Moment/1-——Avisos.md",
-    "游戏主数据-Master/倾向-Trending/Portrayal/艾莉卡-桑德斯/D1R2S0.md",
-    "游戏主数据-Master/结算-Settlement/Storyline/4-与 Ophelia Knapp 完成首次交谈.md",
-    "游戏主数据-Master/结算-Settlement/Storyline/1-于舰厅苏醒.md",
-    "游戏进度-Progress/剧情分支-Plot/1-落地舷窗的处置.md",
-    "游戏主数据-Master/结算-Settlement/Storyline/2-完成舰厅内首次交谈.md",
-    "游戏主数据-Master/结算-Settlement/Branch/1-手动开启落地舷窗.md",
-    "游戏主数据-Master/结算-Settlement/Clue/3-关闭的舰厅落地舷窗.md",
-    "元设计/要素解释/3-Master/Trigger.md",
-    "元设计/要素解释/3-Master/Meta-Factor.md",
-    "游戏主数据-Master/结算-Settlement/Storyline/11-与 Leon Haxa 完成首次交谈.md",
-    "Logic.md",
-    "Storyline.md",
-    "Untitled.md",
+    "灵感集/思想概念/哲学主义/哲学主义目录.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2218 Avisos Landing Project.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2216 Earth-Mars Civil Reconciliation.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2202 Avisos Discovery.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2197 Human Civil Reclaim War.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2195 Operation Whale-fall.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立概念/阿维索斯往事/疯狂映像-The Imprint of Madness.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2185 Earth-Mars Cold War.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2180 Earth United Defence Alliance.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2178 Independence of Crimsonites.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2177 Crimson Dawn.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2164 Crimson Eden Completed.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立概念/火星往事/赤裔-Crimsonites.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2140 Noah Terra Migration Wave II.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2112 Noah Terra Migration Wave I.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2100 Noah Terra Settlement Initiative.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/编年史.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2060 Mars Frontier Project.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2059 Babel Incident.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2060 Human Civilization Alliance Built.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立概念/地球往事/人类文明联盟-Human Civilization Alliance.md",
+    "灵感集/思想概念/哲学思考/思考/休谟问题（Hume’s Problem）.md",
+    "草稿/火星往事.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2071 Mars Base I Completed.md",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/2088 Redstone Port Completed.md",
+    "游戏配置-Configuration/设定-Setup/人物-Avatar/先驱者号小队/莱昂·哈克萨 (Leon Haxa).md",
+    "灵感集/思想概念/哲学思考/思考",
+    "灵感集/思想概念/哲学主义/主义",
+    "灵感集/思想概念/自然知识",
+    "灵感集/思想概念/哲学主义",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件/Untitled",
+    "03290243.png",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立概念/地球往事",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立概念/火星往事",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立概念/阿维索斯往事",
+    "游戏配置-Configuration/设定-Setup/术语-Library/独立事件",
     "元设计/游戏系统",
-    "游戏主数据-Master/结算-Settlement/Storyline/7-与 Diego Moran 完成首次交谈.md",
-    "元设计/要素解释/0-Layers",
-    "元设计/要素解释/4-Configuration/Untitled",
-    "元设计/要素解释/4-Configuration/Elements",
-    "元设计/要素解释/3-Master/Elements/Untitled",
-    "元设计/要素解释/3-Master/Elements",
-    "元设计/要素解释/5-Progress",
-    "元设计/要素解释/4-Configuration",
-    "元设计/要素解释/3-Master",
-    "元设计/要素解释/2-Interaction",
     "正文/UntitledUntitled.canvas"
   ]
 }
